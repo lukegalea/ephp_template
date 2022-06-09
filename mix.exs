@@ -28,7 +28,7 @@ defmodule EphpTemplate.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:phoenix_html, "~> 2.10"},
+      {:phoenix_html, "~> 3.2"},
       {:ephp, "~> 0.2"},
       {:ex_doc, ">= 0.0.0", only: :dev},
     ]
